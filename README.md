@@ -1,5 +1,4 @@
 
-Certainly! Here’s the updated README with your information as the original coder:
 
 Master FX Trading Hub
 Welcome to Master FX Trading Hub! This is your one-stop destination for all things related to Forex and cryptocurrency trading. Our platform is designed to provide traders with the tools, resources, and insights needed to make informed trading decisions and stay ahead in the fast-paced world of financial markets.
