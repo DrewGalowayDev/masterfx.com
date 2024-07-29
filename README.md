@@ -5,7 +5,7 @@ Master FX Trading Hub
 Welcome to Master FX Trading Hub! This is your one-stop destination for all things related to Forex and cryptocurrency trading. Our platform is designed to provide traders with the tools, resources, and insights needed to make informed trading decisions and stay ahead in the fast-paced world of financial markets.
 
 Live View
-You can explore the live version of the Master FX Trading Hub by visiting the following link:
+You can explore the live version of the Master FX Trading Hub by visiting the following link: at https://drewgalowaydev.github.io/masterfx.com/
 
 Master FX Trading Hub Live
 Features
